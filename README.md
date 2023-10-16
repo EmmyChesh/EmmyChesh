@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EmmyChesh
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on big data projects
 - 📫 You can reach me on Linkedin via https://www.linkedin.com/in/emmanuel-cheshi-b50abb154
 
